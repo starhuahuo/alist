@@ -1,4 +1,4 @@
-FROM alpine:3.20.7
+FROM xhofe/alist:latest
 
 ARG TARGETPLATFORM
 ARG INSTALL_FFMPEG=false
